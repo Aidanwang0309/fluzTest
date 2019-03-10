@@ -4,7 +4,7 @@ This project is the coding test for [fluz](https://fluz.app/).
 
 ![Preview Image](https://www.dropbox.com/s/g26k7i76gz3ffra/Screen%20Shot%202019-03-09%20at%207.24.54%20PM.png?dl=0)
 
-[Online Preview](https://fluz.app/).
+[Online Preview](https://fluztest.herokuapp.com/).
 
 ## Available Scripts
 
