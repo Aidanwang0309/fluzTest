@@ -14,11 +14,11 @@ function SocialCarousel() {
       spacing={24}
       className="socialCarousel-container"
     >
-      <Grid item xs={12} sm={12} className="Carousel">
+      <Grid item xs={12} md={6} sm={12} className="Carousel">
         <UserCarousel speed="3" />
       </Grid>
 
-      <Grid item xs={12} sm={12} className="socialInfoContainer">
+      <Grid item xs={12} md={6} sm={12} className="socialInfoContainer">
         <div className="socialInfo">
           <div className="socialInfo-header">
             <h5>
