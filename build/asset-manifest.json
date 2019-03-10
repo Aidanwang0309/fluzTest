@@ -1,0 +1,22 @@
+{
+  "main.css": "/static/css/main.0c0dda15.chunk.css",
+  "main.js": "/static/js/main.9f67159f.chunk.js",
+  "main.js.map": "/static/js/main.9f67159f.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+  "static/js/2.7c68cb95.chunk.js": "/static/js/2.7c68cb95.chunk.js",
+  "static/js/2.7c68cb95.chunk.js.map": "/static/js/2.7c68cb95.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.53cdc8acebfa42c84c2b213e6e769225.js": "/precache-manifest.53cdc8acebfa42c84c2b213e6e769225.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.0c0dda15.chunk.css.map": "/static/css/main.0c0dda15.chunk.css.map",
+  "static/media/apple-itunes.svg": "/static/media/apple-itunes.1f7bbb47.svg",
+  "static/media/dollar-sign.svg": "/static/media/dollar-sign.1859cb1c.svg",
+  "static/media/itunes.jpg": "/static/media/itunes.341c2ce9.jpg",
+  "static/media/nike.svg": "/static/media/nike.558cac3c.svg",
+  "static/media/nike.jpg": "/static/media/nike.b965b1e3.jpg",
+  "static/media/panera-bread.svg": "/static/media/panera-bread.ec920809.svg",
+  "static/media/panera.jpg": "/static/media/panera.b870a7dd.jpg",
+  "static/media/starbucks.jpg": "/static/media/starbucks.028c9ee1.jpg",
+  "static/media/starbucks.svg": "/static/media/starbucks.1ff35b03.svg"
+}
