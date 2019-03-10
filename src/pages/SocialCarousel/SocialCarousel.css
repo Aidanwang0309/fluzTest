@@ -1,0 +1,92 @@
+.socialCarousel-container {
+  height: auto;
+  width: 80vw;
+  margin: auto;
+}
+
+.Carousel {
+  flex-grow: 1;
+}
+
+.socialInfo {
+  flex-grow: 1;
+  font-size: 1rem;
+  line-height: 1.625rem;
+  text-align: left;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.socialInfo-header {
+  width: 100%;
+  padding-top: 10px;
+}
+
+.socialInfo h5 {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: #828388;
+  margin: 0px;
+  margin-bottom: 7px;
+}
+
+.socialInfo h5 span {
+  letter-spacing: 1px;
+}
+
+.socialInfo h1 {
+  font-size: 2.7rem;
+  line-height: 3.375rem;
+  font-weight: 300;
+  margin: 0px;
+}
+
+.socialInfo p {
+  color: #828388;
+  font-weight: 400;
+}
+
+@media (max-width: 1050px) {
+  .socialCarousel-container {
+    flex-direction: column;
+  }
+  .socialInfo {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+  .socialInfo .expansion-button .expansion-panel-header {
+    font-size: 0.8rem;
+    line-height: 30px;
+    padding-right: 0;
+  }
+
+  .expansion-button .dollar-logo {
+    height: 30px;
+    width: 30px;
+  }
+}
+
+@media (max-width: 690px) {
+  .SocialPage {
+    margin: 0;
+  }
+
+  .Carousel .user-carousel-card {
+    width: 70%;
+  }
+
+  .Carousel .carousel-container {
+    height: 500px;
+    width: 300px;
+    transform: translateX(-90%);
+  }
+
+  .Carousel .carouselWrap .user-carousel-card {
+    width: 90%;
+  }
+  .socialInfo {
+    max-width: 90% !important;
+    text-align: left;
+  }
+}

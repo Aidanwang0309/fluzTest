@@ -1,0 +1,36 @@
+.carousel-container {
+  height: 600px;
+  width: 400px;
+  box-sizing: border-box;
+  margin: auto;
+  transform: translateX(-100%);
+}
+
+.carousel-container .show {
+  position: relative;
+  z-index: 2;
+}
+
+.carousel-container .hide {
+  position: relative;
+  z-index: 1;
+}
+
+.carousel-container .in {
+  transform: translateX(100%);
+  transition: all 1s;
+  opacity: 1;
+}
+
+/* .carousel-container .out {
+  opacity: 1;
+} */
+
+.carousel-container p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.56rem;
+  padding-top: 30px;
+  padding-bottom: 27px;
+  font-weight: 300;
+}

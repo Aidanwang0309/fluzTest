@@ -1,0 +1,45 @@
+.user-carousel-card-container {
+  margin-bottom: 2rem;
+  position: absolute;
+  text-align: center;
+}
+
+.user-carousel-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #ffffff;
+  height: 100%;
+  width: 95%;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+}
+
+.user-carousel-card span {
+  letter-spacing: 1px;
+  border-radius: 100px;
+  background: #ff5152;
+  color: #fff;
+  left: 15px;
+  top: 15px;
+  width: 70px;
+  position: absolute;
+  font-size: 12px;
+  padding-top: 2px;
+  padding-bottom: 1px;
+  line-height: 22px;
+}
+
+.user-carousel-card img {
+  border-radius: 5px 5px 0px 0px;
+  width: auto;
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.user-carousel-card .card-logo {
+  margin: 20px auto 36px auto;
+  height: 4rem;
+  width: 5rem;
+}
